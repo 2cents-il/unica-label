@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/unica-label/static/css/main.f7d48a02.css",
-    "main.js": "/unica-label/static/js/main.a01c967a.js",
+    "main.css": "/unica-label/static/css/main.9534cd63.css",
+    "main.js": "/unica-label/static/js/main.43ff2565.js",
     "static/js/239.5ad87fec.chunk.js": "/unica-label/static/js/239.5ad87fec.chunk.js",
     "static/js/977.3e9fc36d.chunk.js": "/unica-label/static/js/977.3e9fc36d.chunk.js",
     "static/js/455.0b140de4.chunk.js": "/unica-label/static/js/455.0b140de4.chunk.js",
     "index.html": "/unica-label/index.html",
-    "main.f7d48a02.css.map": "/unica-label/static/css/main.f7d48a02.css.map",
-    "main.a01c967a.js.map": "/unica-label/static/js/main.a01c967a.js.map",
+    "main.9534cd63.css.map": "/unica-label/static/css/main.9534cd63.css.map",
+    "main.43ff2565.js.map": "/unica-label/static/js/main.43ff2565.js.map",
     "239.5ad87fec.chunk.js.map": "/unica-label/static/js/239.5ad87fec.chunk.js.map",
     "977.3e9fc36d.chunk.js.map": "/unica-label/static/js/977.3e9fc36d.chunk.js.map",
     "455.0b140de4.chunk.js.map": "/unica-label/static/js/455.0b140de4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7d48a02.css",
-    "static/js/main.a01c967a.js"
+    "static/css/main.9534cd63.css",
+    "static/js/main.43ff2565.js"
   ]
 }
